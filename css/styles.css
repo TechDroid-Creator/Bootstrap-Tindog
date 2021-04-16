@@ -159,7 +159,7 @@ h2
 .subtexts1 				/* to make all cards same height */
 {
 	color: #8f8f8f;
-	margin-bottom: 16%;
+	/* margin-bottom: 16%; */
 }
 
 /* Call to Action Section */
@@ -224,14 +224,14 @@ h2
 		width: 60%;
 		transform: rotate(0);
 	}
-	#aligns
+	/* #aligns
 	{
 		margin-bottom: 50%;
 	}
 	#aligns1
 	{
-		margin-bottom: 25%;
-	}
+		margin-bottom: 100%;
+	} */
 	.icons
 	{
 		text-align: center;
